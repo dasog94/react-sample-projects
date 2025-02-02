@@ -1,1 +1,1 @@
-# react-study
+# react-sample-projects
